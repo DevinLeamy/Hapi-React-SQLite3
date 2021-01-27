@@ -1,0 +1,74 @@
+body, html {
+    margin: 0px;
+    width: 100vw;
+    height: 100vh;
+    padding: 0px;
+    max-width: 800px;
+    margin: auto;
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    font-family: 'poppins-medium';
+    background-color: rgb(252, 252, 252);
+    color: rgb(29, 29, 29);
+    background-size: cover;
+    background-position: center center;
+  }
+  
+  ::selection {
+      background: rgb(120, 201, 255);
+  }
+  
+  /* Change cursor color */
+  
+  /* Make scroll bar invisible */
+  ::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+    background: transparent;
+  }
+  
+  /* Removes blue border of selected buttons */
+  button:focus { outline: 0; }
+  div:focus { outline: 0; }
+  span:focus { outline: 0; }
+  img:focus { outline: 0; }
+  textarea:focus { outline: 0; }
+  p:focus { outline: 0; }
+  input:focus { outline: 0; }
+  select:focus { outline: 0; }
+  app-arrow-button:focus { outline: 0; }
+  
+  /* Fonts */
+  @font-face {
+    font-family: 'poppins-regular';
+    src: url(assets/fonts/poppins/Poppins-Regular.ttf);
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'poppins-medium';
+    src: url(assets/fonts/poppins/Poppins-Medium.ttf);
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'poppins-semibold';
+    src: url(assets/fonts/poppins/Poppins-SemiBold.ttf);
+    font-style: normal;
+  }
+  
+  /* Remove default style from links */
+  a:link { text-decoration: none; }
+  a:visited { text-decoration: none; }
+  a:hover { text-decoration: none; }
+  a:active { text-decoration: none; }
+  
+  /* Raised Effect */
+  .raised {
+    box-shadow: 
+    inset 0 -3em 3em rgba(0,0,0,0.1), 
+          /* 0 0  0 2px rgb(255,255,255), */
+          0.3em 0.3em 1em rgba(0,0,0,0.3); 
+  }

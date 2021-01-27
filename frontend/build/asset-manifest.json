@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7e95bf79.chunk.css",
+    "main.js": "/static/js/main.842fec41.chunk.js",
+    "main.js.map": "/static/js/main.842fec41.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b7c42158.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b7c42158.js.map",
+    "static/js/2.3152dfd0.chunk.js": "/static/js/2.3152dfd0.chunk.js",
+    "static/js/2.3152dfd0.chunk.js.map": "/static/js/2.3152dfd0.chunk.js.map",
+    "static/js/3.2c3e6c91.chunk.js": "/static/js/3.2c3e6c91.chunk.js",
+    "static/js/3.2c3e6c91.chunk.js.map": "/static/js/3.2c3e6c91.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7e95bf79.chunk.css.map": "/static/css/main.7e95bf79.chunk.css.map",
+    "static/js/2.3152dfd0.chunk.js.LICENSE.txt": "/static/js/2.3152dfd0.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Poppins-SemiBold.cce5625b.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7c42158.js",
+    "static/js/2.3152dfd0.chunk.js",
+    "static/css/main.7e95bf79.chunk.css",
+    "static/js/main.842fec41.chunk.js"
+  ]
+}
